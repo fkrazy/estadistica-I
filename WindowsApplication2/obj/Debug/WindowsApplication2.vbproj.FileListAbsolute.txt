@@ -1,0 +1,15 @@
+D:\Matemanias\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Matemanias\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Matemanias\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Matemanias\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Matemanias\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Matemanias\WindowsApplication2\estadistica-I\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Matemanias\WindowsApplication2\estadistica-I\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Matemanias\WindowsApplication2\estadistica-I\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Matemanias\WindowsApplication2\estadistica-I\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
